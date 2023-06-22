@@ -1,4 +1,4 @@
-# Frontend Hospitalizacion En Casa
+# Backend Hospitalizacion En Casa
 
 ## Project setup
 ```
